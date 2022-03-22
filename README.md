@@ -26,3 +26,8 @@ hint:
 hint: 	git branch -m <name>
 Initialized empty Git repository in /Users/jaysun/Desktop/Swift/IVTimer/.git/
 ```
+這時後可以
+
+    (base) jaysun@sunyangzhedeMBP IVTimer % git config --global init.defaultBranch main
+    
+因為Github在創建new repository時是用main當default branch，又因為我在版控簡直是菜雞，所以我會先換成main
