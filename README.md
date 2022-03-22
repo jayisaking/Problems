@@ -12,7 +12,7 @@
     (base) jaysun@sunyangzhedeMBP IVTimer % git init
  
 在我的例子裡，會輸入後會長這樣
-'''
+```
 (base) jaysun@sunyangzhedeMBP IVTimer % git init
 hint: Using 'master' as the name for the initial branch. This default branch name
 hint: is subject to change. To configure the initial branch name to use in all
@@ -25,4 +25,4 @@ hint: 'development'. The just-created branch can be renamed via this command:
 hint: 
 hint: 	git branch -m <name>
 Initialized empty Git repository in /Users/jaysun/Desktop/Swift/IVTimer/.git/
-'''
+```
