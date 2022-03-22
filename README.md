@@ -3,6 +3,5 @@
 
 ## Step 1
 
-*** 
-(base) jaysun@sunyangzhedeMBP IVTimer % 
-***
+
+    (base) jaysun@sunyangzhedeMBP IVTimer % 
