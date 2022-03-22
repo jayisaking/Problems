@@ -8,4 +8,5 @@
     (base) jaysun@sunyangzhedeMBP IVTimer % 
 ## Step 2
 在確定有下載git後，輸入git init
+
     (base) jaysun@sunyangzhedeMBP IVTimer % git init
